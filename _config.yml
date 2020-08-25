@@ -1,11 +1,11 @@
 # Site settings
-author: Becky Holt
-title: 
+author: Becky Clara Zorn Holt
+title: Becky's Full Stack Blog
 header-img: img/home-bg.png
 email: bczorn@gmail.com
-copyright_name: Becky Holt
+copyright_name: Becky Clara Zorn Holt
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A self-paced journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bczorn
